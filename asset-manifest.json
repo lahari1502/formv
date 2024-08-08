@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formv/static/css/main.457b94e2.css",
+    "main.js": "/formv/static/js/main.3104eceb.js",
+    "index.html": "/formv/index.html",
+    "main.457b94e2.css.map": "/formv/static/css/main.457b94e2.css.map",
+    "main.3104eceb.js.map": "/formv/static/js/main.3104eceb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.457b94e2.css",
+    "static/js/main.3104eceb.js"
+  ]
+}
